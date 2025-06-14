@@ -73,13 +73,6 @@ Enable e-commerce or retail businesses to:
 8. **Export Model (Optional)**
 
 ---
-
-## 📈 Visualization Example
-
-![Cluster Scatter Plot](https://raw.githubusercontent.com/yourusername/yourrepo/main/cluster_plot.png)
-
----
-
 ## 🚀 Run Locally
 
 ```bash
